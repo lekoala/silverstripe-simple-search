@@ -1,0 +1,6 @@
+en:
+  SimpleSearch:
+    GO: Go
+    SEARCH: Search
+    SearchResults: 'Search Results'
+    YouSearchFor: 'You searched for %s'

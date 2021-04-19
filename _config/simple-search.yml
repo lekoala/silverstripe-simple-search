@@ -1,0 +1,6 @@
+---
+Name: simple-search
+---
+SilverStripe\CMS\Controllers\ContentController:
+  extensions:
+    - LeKoala\SimpleSearch\SimpleSearchControllerExtension

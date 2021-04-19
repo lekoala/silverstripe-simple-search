@@ -1,0 +1,6 @@
+fr:
+  SimpleSearch:
+    GO: Go
+    SEARCH: Chercher
+    SearchResults: 'Résultats recherche'
+    YouSearchFor: 'Vous avez recherché %s'

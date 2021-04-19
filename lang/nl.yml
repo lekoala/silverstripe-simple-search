@@ -1,0 +1,6 @@
+nl:
+  SimpleSearch:
+    GO: Go
+    SEARCH: Zoeken
+    SearchResults: Zoekresultaten
+    YouSearchFor: "U zocht naar  %s"

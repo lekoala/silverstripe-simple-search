@@ -1,0 +1,7 @@
+---
+Name: simple-search-routes
+After: '#rootroutes'
+---
+SilverStripe\Control\Director:
+  rules:
+    'search': 'LeKoala\SimpleSearch\SimpleSearchController'
